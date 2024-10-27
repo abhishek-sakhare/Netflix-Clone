@@ -80,6 +80,10 @@ body {
     width: 20rem;
     font-weight: 700;
     border-radius: 0.3rem;
+    padding-left: 1rem;
+}
+input, select, textarea{
+    color: #ffffff;
 }
 .get-started {
     color: #ffffff;
@@ -202,7 +206,7 @@ body {
     margin-bottom: 20px;
 }
 .border {
-    border : 2px solid transparent;
+    border : 2px solid black;
 }
 .border:hover {
     opacity: 80%;
